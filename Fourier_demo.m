@@ -1,5 +1,7 @@
 %%
-% Quick demonstration of Fourier decomposition in the context of speech sounds
+% Quick demonstration of Fourier decomposition in the context of speech sounds.
+% I use this showing students how the sounds we hear as vowels are complex sounds which can be
+% partially decomposed into constituent parts
 
 %%
 % Greenberg & Ainsworth (2004) pages 1-9: synopsis
@@ -28,6 +30,7 @@
 % to these questions may help us understand why human languages are the way they are.
 
 %%
+% path to a folder containing the documents 'vowel_a.wav' and 'vowel_i.wav'. These are two pre-recorded vowel sounds.
 cd '/Users/ethan/Dropbox/Documents/Teaching/Courses/MA Workshops/Auditory Neuroscience and Speech Processing'
 %%
 
