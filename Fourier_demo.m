@@ -1,5 +1,5 @@
 %%
-Quick demonstration of Fourier decomposition in the context of speech sounds
+% Quick demonstration of Fourier decomposition in the context of speech sounds
 
 %%
 % Greenberg & Ainsworth (2004) pages 1-9: synopsis
